@@ -15,6 +15,7 @@ import WebDev from '../routes/WebDev';
 const App = () => {
   return (
     <>
+    <h1>Simple Pure CSS Drop Down Menu</h1>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />

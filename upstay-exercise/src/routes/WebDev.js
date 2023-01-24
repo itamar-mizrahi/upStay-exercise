@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 const WebDev = () => {
   return <h2>Web development content</h2>;
